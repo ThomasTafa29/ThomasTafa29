@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- TODO: replace YOUR-LINKEDIN-HANDLE with the end of your LinkedIn profile URL (appears twice in this file) -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thomas%20Tafa-0A66C2?style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/thomas-tafa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thomas%20Tafa-0A66C2?style=flat-square"></a>
   <a href="mailto:thomastafa21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thomastafa21%40gmail.com-555555?style=flat-square"></a>
   <img alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square">
 </p>
