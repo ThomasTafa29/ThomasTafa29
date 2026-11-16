@@ -102,4 +102,4 @@ Every repo on this profile is built to the same standard:
 
 ## Let's connect
 
-I'm open to Cloud Support, Cloud Operations, and Systems Administration roles, remote or hybrid in the NYC area. Healthcare and health-tech teams are a natural fit for my background. The best way to reach me is [LinkedIn][(https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/thomas-tafa/)) or [email](mailto:thomastafa21@gmail.com).
+I'm open to Cloud Support, Cloud Operations, and Systems Administration roles, remote or hybrid in the NYC area. Healthcare and health-tech teams are a natural fit for my background. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/thomas-tafa/)) or [email](mailto:thomastafa21@gmail.com).
