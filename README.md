@@ -21,7 +21,7 @@
 
 I'm an IT professional with close to four years of experience supporting users, systems, and infrastructure in healthcare and higher education. I'm moving into cloud and systems administration, and this GitHub is where I document that work: real builds, real troubleshooting, and a recorded walkthrough for each project.
 
-- **Currently:** IT Service Technician at LaGuardia Community College (CUNY)
+- **Currently:** Windows System Admin at LaGuardia Community College (CUNY)
 - **Previously:** Clinical Systems Support Analyst at Maimonides Medical Center (~2.5 years), supporting EHR and clinical systems in a HIPAA-regulated hospital, including a live Emergency Department buildout
 - **Cloud training:** AWS re/Start (Per Scholas) and a 7-month AWS Cloud Engineering Fellowship (Silver Lining Program)
 
@@ -102,4 +102,4 @@ Every repo on this profile is built to the same standard:
 
 ## Let's connect
 
-I'm open to Cloud Support, Cloud Operations, and Systems Administration roles, remote or hybrid in the NYC area. Healthcare and health-tech teams are a natural fit for my background. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) or [email](mailto:thomastafa21@gmail.com).
+I'm open to Cloud Support, Cloud Operations, and Systems Administration roles, remote or hybrid in the NYC area. Healthcare and health-tech teams are a natural fit for my background. The best way to reach me is [LinkedIn][(https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/thomas-tafa/)) or [email](mailto:thomastafa21@gmail.com).
